@@ -5,8 +5,10 @@ koa-body `formLimit` is not working
 Not **production** code.
 
 ## Run
+```sh
 npm i
 npm run start
+```
 
 ## Objective
 limite file size to 1kb
